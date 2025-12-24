@@ -1,0 +1,3 @@
+# 金流
+
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>金流資訊</strong></td><td><ol><li><a href="../../gong-neng-cao-zuo/guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/jin-liu-guan-li.md#ru-he-cha-xun-chan-yi-ke-cheng-shi-jie-nei-de-jin-liu-zi-xun">查看課程世界的金流資訊</a></li><li><a href="../../gong-neng-cao-zuo/guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/jin-liu-bao-biao-xia-zai.md#ru-he-ge-bie-cha-xun-mou-yi-jin-liu-te-dian-wu-quan-bu-ke-cheng-shi-jie-de-jin-liu-zi-xun">查看某金流特店於全課程世界的金流資訊</a></li></ol></td></tr></tbody></table>

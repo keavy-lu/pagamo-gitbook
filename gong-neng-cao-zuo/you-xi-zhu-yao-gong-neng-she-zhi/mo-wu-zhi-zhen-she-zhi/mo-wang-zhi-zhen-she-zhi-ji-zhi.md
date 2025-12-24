@@ -1,0 +1,40 @@
+# 魔王指針設置機制
+
+### 各魔王戰役模式的差異為何？
+
+<table data-full-width="false"><thead><tr><th width="108">  </th><th width="200">魔王任務戰役</th><th width="200">官方魔王戰役</th><th>強襲魔王戰役</th></tr></thead><tbody><tr><td>設定位置</td><td>管理者介面 -  BOSS 戰</td><td>管理者介面 -  BOSS 戰</td><td>管理者介面 -  BOSS 戰</td></tr><tr><td>參與方式</td><td>玩家主動點擊魔物指針參加戰役</td><td>玩家主動點擊魔物指針參加戰役</td><td>系統強制性徵召被指派的玩家進入戰役</td></tr><tr><td>題目來源</td><td>由身兼管理者身份的教師選擇題目來源</td><td>玩家自由選擇任務或自選章節</td><td>由身兼管理者身份的教師選擇題目來源</td></tr><tr><td>玩家取得的題目</td><td>同場任務魔王戰役的玩家所取得的<strong>任務皆同</strong></td><td>同場官方魔王戰役的玩家所取得的<strong>任務可不同</strong></td><td>同場強襲魔王戰役的玩家所取得的<strong>任務可不同</strong></td></tr><tr><td>出題順序</td><td>遵照該任務所屬的作業出題方式</td><td> - 自選章節： 隨機順序<br> - 任務：遵照該任務所屬的作業出題方式</td><td>遵照該任務所屬的作業出題方式</td></tr><tr><td>答題完的出題機制</td><td>答過一遍後，魔戰中答錯再隨機出現</td><td>答過一遍後，魔戰中答錯再隨機出現</td><td>答過一遍後，魔戰中答錯再隨機出現</td></tr><tr><td>魔王限制</td><td>同一時段可有多隻魔王</td><td>同一時段可有多隻魔王</td><td>同一時段不可有多隻魔王</td></tr></tbody></table>
+
+### 各魔王戰役模式的適用情境為何？
+
+<table data-full-width="false"><thead><tr><th width="146">  魔王戰役</th><th>適用情境</th></tr></thead><tbody><tr><td>魔王任務戰役</td><td><ol><li>教師欲針對特定章節範圍要求學生答題</li><li>學生在一般任務上的答題狀況不盡理想，需要有其他誘因或遊戲機制誘使學生針對特定章節範圍答題</li></ol></td></tr><tr><td>官方魔王戰役</td><td><ol><li>管理者或營運團隊需要增進玩家的活躍性，鼓勵其在特定時間上線答題</li></ol></td></tr><tr><td>強襲魔王戰役</td><td><ol><li>要排除學生做其他事情，強迫其參加</li><li>教師希望為不同學生指派不同作業，練習不同章節範圍</li></ol></td></tr></tbody></table>
+
+### 各魔王戰的答題順序機制為何？
+
+#### 出題規則（仍有未回答或是答錯的題目）
+
+共通規則
+
+1. 排除所選範圍或任務中在地圖答對過的題目
+2. 排除所選範圍在魔王戰中答對過的題目
+
+不同規則
+
+1. 世界魔王
+   * 自選章節：地圖答錯、未答機率相同隨機出現，答過一遍後，魔戰中答錯再隨機出現
+   * 任務書
+     * 隨機出題：地圖答錯、未答機率相同隨機出現，答過一遍後，魔戰中答錯再隨機出現
+     * 順序出題：地圖答錯、未答題按順序出現，答過一遍後，魔戰中答錯再按順序出現
+2. 魔王任務 / 強襲魔王
+   * 隨機出題：地圖答錯、未答機率相同隨機出現，答過一遍後，魔戰中答錯再隨機出現
+   * 順序出題：地圖答錯、未答題按順序出現，答過一遍後，魔戰中答錯再按順序出現
+
+#### 無題可出時的規則（仍有未回答或是答錯的題目）
+
+1. 世界魔王：答題完之後跳選範圍彈窗（需要關閉[重複模式](../../guan-li-zhe-hou-tai-ke-cheng-shi-jie-she-ding/jin-jie-she-ding/ti-mu-she-ding.md#ru-he-she-ding-tong-yi-ti-mu-de-zui-gao-zuo-da-xian-zhi-ci-shu)）
+2. 魔王任務：原本的題目集進行第二輪隨機出題（需要開啟[重複模式](../../guan-li-zhe-hou-tai-ke-cheng-shi-jie-she-ding/jin-jie-she-ding/ti-mu-she-ding.md#ru-he-she-ding-tong-yi-ti-mu-de-zui-gao-zuo-da-xian-zhi-ci-shu)）
+3. 強襲魔王：關閉[重複模式](../../guan-li-zhe-hou-tai-ke-cheng-shi-jie-she-ding/jin-jie-she-ding/ti-mu-she-ding.md#ru-he-she-ding-tong-yi-ti-mu-de-zui-gao-zuo-da-xian-zhi-ci-shu)
+
+### 魔王戰役設置限制為何？
+
+1. 已開賽（有人入場）的魔王戰，再去修改時間與內容是無效的
+2. 同一隻魔王（編號相同這隻，名字相同算另一隻）在戰役結束的一小時內，無法重新設定開賽時間，因為一小時內在遊戲端會顯示戰役結果，如果要短時間內用同個名字的魔王連續開賽，請設定不同編號的多隻魔王
