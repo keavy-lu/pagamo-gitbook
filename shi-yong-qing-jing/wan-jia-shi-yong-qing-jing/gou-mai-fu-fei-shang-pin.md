@@ -1,3 +1,0 @@
-# 購買付費商品
-
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>購買商品</strong></td><td><ol><li><a href="../../gong-neng-cao-zuo/you-xi-jie-mian/xue-ke-tiao-zhan-cao-zuo.md#ru-he-gou-maiewai-de-tiao-zhan-quan">購買挑戰券</a></li><li><a href="../../gong-neng-cao-zuo/pagamo-zhu-ye/header/yong-hu-zi-xun/xiao-fei-ji-lu.md#ru-he-jian-shi-guo-qu-de-xiao-fei-ji-lu">檢視購買紀錄</a></li><li><a href="../../gong-neng-cao-zuo/pagamo-zhu-ye/header/yong-hu-zi-xun/xiao-fei-ji-lu.md#ru-he-ti-wei-fu-kuan-ding-chan-fu-kuan">完成待付款訂單的繳費</a></li></ol></td></tr><tr><td>  <strong>名詞解釋</strong></td><td><ol><li><a href="../../jie-shao/ming-ci-jie-shi/wan-jia/tiao-zhan-quan.md">挑戰券</a></li></ol></td></tr></tbody></table>

@@ -22,7 +22,7 @@
 
 <details>
 
-<summary>主題式的內容可以使用 Expandable 來展開或收合內容，可參考<a href="../../gong-neng-cao-zuo/you-xi-zhu-yao-gong-neng-she-zhi/mo-wu-zhi-zhen-she-zhi/she-zhi-guan-fang-mo-wang-zhan.md#di-yi-bu-que-ren-boss-qing-chan-shi-fou-you-shi-yong-zhe-xiang-yao-shi-yong-de-boss">魔物指針的設置</a></summary>
+<summary>主題式的內容可以使用 Expandable 來展開或收合內容，可參考<a href="../../functions/you-xi-zhu-yao-gong-neng-she-zhi/mo-wu-zhi-zhen-she-zhi/she-zhi-guan-fang-mo-wang-zhan.md#di-yi-bu-que-ren-boss-qing-chan-shi-fou-you-shi-yong-zhe-xiang-yao-shi-yong-de-boss">魔物指針的設置</a></summary>
 
 
 

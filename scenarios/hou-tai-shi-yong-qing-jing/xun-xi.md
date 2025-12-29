@@ -1,0 +1,3 @@
+# 訊息
+
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>公告訊息</strong></td><td><ol><li><a href="../../functions/courses/you-xi-she-zhi/xun-xi-guan-li.md#ru-he-zai-ke-cheng-guan-li-jie-mian-zhong-fa-song-zhi-ke-cheng-shi-jie-de-gong-gao-xun-xi">發送公告訊息</a></li><li><a href="../../functions/courses/you-xi-she-zhi/xun-xi-guan-li.md#ru-he-zai-ke-cheng-guan-li-jie-mian-zhong-bian-ji-fa-song-gei-ke-cheng-shi-jie-de-gong-gao-xun-xi">編輯公告訊息</a></li></ol></td></tr><tr><td><strong>功能與機制介紹</strong></td><td><ol><li><a href="../../introductions/ming-ci-jie-shi/wan-jia/xun-xi.md#xun-xi-shi-shen-me">訊息</a></li></ol></td></tr></tbody></table>

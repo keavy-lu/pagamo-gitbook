@@ -1,0 +1,3 @@
+# 重生或傳送到其他地點
+
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>重生或傳送至其他地點</strong></td><td><ol><li><a href="../../introductions/dao-ju-zhong-lei/ye-di-dao-ju.md#chuan-song-men">使用傳送道具</a></li><li><a href="../../introductions/dao-ju-zhong-lei/zhong-zhi-dao-ju.md#fei-hang-san-dao-ju">使用飛行傘道具</a></li><li><a href="../../functions/you-xi-jie-mian/header/you-xi-she-ding.md#ru-he-qi-yong-zhong-sheng-gong-neng">使用重生功能</a></li></ol></td></tr><tr><td><strong>名詞解釋</strong></td><td><ol><li><a href="../../introductions/ming-ci-jie-shi/wan-jia/chong-sheng-gong-neng.md">重生功能</a></li></ol></td></tr></tbody></table>

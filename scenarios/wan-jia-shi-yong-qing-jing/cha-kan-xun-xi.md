@@ -1,0 +1,3 @@
+# 查看訊息
+
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>查看訊息</strong></td><td><ol><li><a href="../../functions/you-xi-jie-mian/header/xun-xi-guan-li.md#ru-he-cha-kan-gong-gao-xun-xi">查看公告訊息</a></li><li><a href="../../functions/you-xi-jie-mian/header/xun-xi-guan-li.md#ru-he-cha-kan-ban-ji-xun-xi">查看班級訊息</a></li><li><a href="../../functions/you-xi-jie-mian/header/xun-xi-guan-li.md#ru-he-cha-kan-ge-ren-xun-xi">查看個人訊息</a></li><li><a href="../../functions/you-xi-jie-mian/header/xun-xi-guan-li.md#ru-he-cha-kan-zhang-hao-xun-xi">查看帳號訊息</a></li></ol></td></tr><tr><td><strong>名詞解釋</strong></td><td><ol><li><a href="../../introductions/ming-ci-jie-shi/wan-jia/xun-xi.md">訊息</a></li></ol></td></tr></tbody></table>
