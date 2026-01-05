@@ -1,5 +1,6 @@
 # 「pagamo-改資料」頻道用法
 
+<<<<<<< HEAD
 ## 頻道連結
 
 ### . [pagamo-改資料](https://bonio.slack.com/archives/C02UTSL0J6T)
@@ -17,3 +18,5 @@
    1. 過去已有相關 OP 票，也知道如何寫 OP 票，就請自行開 OP 票
    2. 如果不確定 OP 怎麼處理比較好，一樣可以回報先跟值週生討論完再自行開 OP 票。(「需要這 Sprint 立即處理嗎？」請選擇 `否，想討論後續處理方式` ）
    3. 有關各 sprint 時程，請見 [sprint sheet 的 operating page](https://boniotw-my.sharepoint.com/:x:/g/personal/bonio_share_bonio_com_tw/ERg36HVoCv5CrojFPxKezI0BfLNKdR_i3HthRhHY-eP8Uw?e=zt2vRJ\&nav=MTJfQTE5NDdfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0)
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c

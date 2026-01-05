@@ -1,5 +1,6 @@
 # 「 pagamo-查資料 」頻道用法
 
+<<<<<<< HEAD
 ## 頻道連結
 
 ### [pagamo-查資料 ](https://bonio.slack.com/archives/C02VAQCSD7E)
@@ -15,3 +16,5 @@
 2. 使用者情境：～
 3. 需要協助事項：～
 4. 截圖或影片資料：(可附到討論串中)
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c

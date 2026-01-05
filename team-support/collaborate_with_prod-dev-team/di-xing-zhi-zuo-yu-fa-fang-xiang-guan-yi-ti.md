@@ -4,6 +4,7 @@ description: 地形製作與發放相關議題
 
 # 地形製作與發放相關議題
 
+<<<<<<< HEAD
 ## 地形製作
 
 PaGamO遊戲的地形是重要的虛寶，每年都會有大量的新地形產生，地形從產品需求開始，開製作（內製或外包）需求->設計2D3D與道具->RD製作出web/app使用的地形進遊戲中，完整流程請參考：[地形/道具製作與使用需知](chan-pin-liang-zhou-yi-ci-de-kai-fa-xun-huan-sprint/preplanning-hui-yi-yu-sprint-kai-piao-xu-zhi/di-xing-dao-ju-zhi-zuo-yu-shi-yong-xu-zhi.md)
@@ -26,3 +27,5 @@ PaGamO遊戲的地形是重要的虛寶，每年都會有大量的新地形產�
 2. 想使用未開放的道具或地形，想找原單位商量。
 3. 不確定配獎內容想尋求PM協助。
 
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c

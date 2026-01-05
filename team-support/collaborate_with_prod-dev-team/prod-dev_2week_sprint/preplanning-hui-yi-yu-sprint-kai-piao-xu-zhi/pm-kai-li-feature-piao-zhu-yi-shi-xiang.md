@@ -1,5 +1,6 @@
 # PM 開立 Feature 票注意事項？
 
+<<<<<<< HEAD
 
 
 ## 開票須知
@@ -8,3 +9,5 @@
 2. Issue Template 請選擇「產品母子票之母票範本」並依 Description 的內容開票，如開發內容較複雜，有需要子票描述，請使用「產品母子票之子票範本」開立子票。
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c

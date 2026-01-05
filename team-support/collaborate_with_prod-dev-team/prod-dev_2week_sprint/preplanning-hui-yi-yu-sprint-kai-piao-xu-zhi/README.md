@@ -1,5 +1,6 @@
 # Pre-planning 會議與 Sprint 開票須知
 
+<<<<<<< HEAD
 ## Pre-planning 會議在做什麼？
 
 pre-planning 會議會決定下 Sprint 產品開發所有相關項目的優先順序。
@@ -25,3 +26,5 @@ pre-planning 會議會決定下 Sprint 產品開發所有相關項目的優先�
 
     1. 如果有需要提供密碼，請確認負責後的值週生後再私訊提供，確認 RD 接收後，也務必刪除密碼訊息。
 
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c

@@ -1,5 +1,6 @@
 # 開立 OP 票的注意事項？
 
+<<<<<<< HEAD
 ## OP 票完整示意圖：
 
 1. 開票後，會自動產生票號(#)，後續溝通時請以票號為主，或提供連結，避免大家討論到不同的內容。
@@ -27,3 +28,5 @@
    1. 舉例：SP243 是 2024/10/28-2024/11/08，SP244 是 SP244(2024/11/11-2024/11/22)。如執行時間在 11/13 (三) 下班前，請務必於 SP243 開票，並在 comment 欄位寫下預計的 due date，提醒 PM 有此票
 3. pre-planning 後，票如有任何異動請至 slack- [#pagamo-operating](https://bonio.slack.com/archives/C07KKNN0SMT)  提醒執行的 RD。執行 RD 如對票有疑慮也會在此頻道詢問
 4. 使用 slack- [#pagamo-operating](https://bonio.slack.com/archives/C07KKNN0SMT) 溝通時，請注意 slack 訊息要包含執行的 redmine 票號並 @ 該票的執行，R D (可根據 redmine 票上的 assignee 資訊）
+=======
+>>>>>>> fb54cbc7b631955281f58f0ae2ba1a8a7d47ce2c
