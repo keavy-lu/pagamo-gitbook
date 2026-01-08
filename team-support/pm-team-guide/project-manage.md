@@ -1,5 +1,43 @@
 # 產品專案的建立與管理(beta)
 
+## 產品專案或任務在 Asana 的建立流程
+
+1. 根據 [Problem Backlog](https://app.asana.com/0/portfolio/1206044726066854/1207671584583273) 或 PM 部門內部的專案指派，啟動產品管理流程
+2. 根據接收到的產品目標，使用 Asana 專案範本，在「Product Backlog」專案集中新增「專案」追蹤
+3. 如 PM 值週生有開票或有協助處理跨部門緊急票，都可依上述原則，記錄到 Asana 確保工作有被看見
+   1. 值週生議題處理方式可參考「PM Spinrt 值週生支援項目」
+
+### 在 Product Backlog 新增或編輯「專案」的注意事項：
+
+1.  請使用「專案範本beta250526」以上的版本建立
+
+    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+2.  建立專案後，請透過「編輯專案翔詳細資料」，優先填寫「專案來源單位」和「年份季度」，如不確定「年份季度」請優先填寫當前時間所屬「年份季度」，後續再請與跨部門主責 PM 或 PM Lead 確認後補上
+
+    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+3.  依「PM 專案工項」區段說明，完成整個專案的設定
+
+    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+4.  依序實際專案進程完成「Problem Backlog」 ，並視需求新增主工項（區段）
+
+    1. 如果是自行新增在 problem backlog 區塊的問題，要再同步掛回 problem backlog 方便追蹤。
+       1. 請記得設定「來源單位」，方便後續 PM 整理篩選任務
+
+    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+5. 依序實際專案進程完成「未來優化建議」
+   1. 開發過程中可能會有發現可優化的項目，依據處理急迫性分為：
+      1. 高：須在此專案上線前完成，移至其他區段，並卻表在上線日前有完成
+      2. 中：建議在此專案上線後接續優化，可另外成立新專案，並將這些任務轉成新專案的 Problem Backlog
+      3.  低：單純優化建議，不一定立即或接續完成的任務。這些任務就放在「未來優化建議」區段中，
+
+          但要再同步掛回 problem backlog 方便追蹤。
+
+          1. 請記得設定「來源單位」：專案延伸，方便後續 PM 整理篩選任務
+
+
+
+
+
 1. PM 中午會議口頭更新，讓其他 PM 了解處理狀況與進度
 2. 每 SP 固定文字更新「專案」的「狀態」兩次：
    1. 時間：W1/W2 的最後一個工作日都要更新，如請假則請於放假前更新，或委由交接夥伴更新
